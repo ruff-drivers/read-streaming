@@ -1,0 +1,7 @@
+{
+    "name": "read-streaming",
+    "version": "0.1.0",
+    "description": "Wrap `read` method of one object to an event emitter",
+    "author": "Nanchao Inc.",
+    "main": "src/index.js"
+}
